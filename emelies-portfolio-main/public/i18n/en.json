@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Home",
+    "project": "Projects",
+    "resume": "Resume",
+    "contact": "Contact"
+  },
+  "intro": {
+    "heading": "Hello",
+    "sub-heading": "Voici qui je suis et ce que je fais",
+    "body": "Je suis un étudiant ingénieur spécialisé dans la transformation digitale industrielle. En plus de mes études, j'occupe le poste de président du club Quark et de vice-président du club Industry. Ces responsabilités me permettent de développer mes compétences en gestion et en leadership, tout en contribuant à la vie étudiante de mon université",
+    "title": "étudiant ingénieur en transformation digitale "
+  },
+  "projects": {
+    "title": "Projects",
+    "body": "J'ai tenté de limiter ma liste à trois projets, mais j'en ai en réalité plusieurs.",
+    "list": [
+      {
+        "title": "Film projet",
+        "name": "By me",
+        "tags": ["express", "postman", "tailwind"],
+        "description": "Notre projet vise à créer une plateforme web simple mais complète qui affiche en détail une collection de films provenant d'une API dédiée. Le site web offrira aux utilisateurs la possibilité de consulter des informations approfondies sur chaque film, y compris les acteurs principaux, les réalisateurs, les synopsis, les évaluations et d'autres détails pertinents."
+      },
+      {
+        "title": "Game projet",
+        "name": "By me",
+        "tags": ["bootstrap", "React", "Redux_toolkit", "chakra"],
+        "description": "Notre projet tourne autour de l'intégration d'une API de jeu avec React afin de créer des expériences de jeu captivantes et interactives. En exploitant les capacités de React conjointement avec l'API de jeu sélectionnée, notre objectif est de développer des jeux attrayants offrant une fonctionnalité fluide et des expériences utilisateur améliorées."
+      },
+      {
+        "title": "Quark site",
+        "name": "By me",
+        "tags": ["bootstrap", "React", "Redux_toolkit", "chakra", "Sass"],
+        "description": "Notre projet consiste à créer un site web dédié au Club QUARK pour offrir une expérience en ligne complète aux membres et aux passionnés de notre communauté. Ce site fournira des informations actualisées sur les activités du club, les événements à venir, les actualités, ainsi qu'un espace interactif pour favoriser la communication et la participation des membres."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Me",
+    "body": "N'hésitez pas à me contacter par email à l'adresse  : 'othmanelamranialaoui@gmail.com' ou via LinkedIn en cherchant mon nom d'utilisateur 'Othmane Lamrani Alaoui'. Je suis toujours disponible pour discuter de nouvelles opportunités professionnelles, collaborations ou simplement pour échanger des idées. Je serais ravi de pouvoir échanger avec vous et de répondre à toutes vos questions"
+  },
+  "resume": {
+    "title": "Resume",
+    "body": "Faire le point sur moi-même.",
+    "resume": "Download Resume",
+    "educationHeader": "Utbildning",
+    "experienceHeader": "Erfarenhet",
+    "skillsHeader": "Skills",
+    "education": [
+      {
+        "header": "Utbildning",
+        "year": "2023 - 2026",
+        "universityName": "l’Université Sultan Moulay Slimane",
+        "degreeLevel": "Le cycle d'ingénieur en transformation digitale industrielle",
+        "body": "Créée en 2007, l’Université Sultan Moulay Slimane – USMS est un établissement public à caractère culturel, scientifique et professionnel. Avec 13 institutions, l’université regroupe aujourd’hui plus de 46057 étudiants et 1039 membres du personnel dont 746 professeurs."
+      },
+      {
+        "header": "Utbildning",
+        "year": "2021 - 2023",
+        "universityName": "l’Université Sultan Moulay Slimane",
+        "degreeLevel": "Les classes préparatoires",
+        "body": "Créée en 2007, l’Université Sultan Moulay Slimane – USMS est un établissement public à caractère culturel, scientifique et professionnel. Avec 13 institutions, l’université regroupe aujourd’hui plus de 46057 étudiants et 1039 membres du personnel dont 746 professeurs."
+      }
+    ],
+    "experience": [
+      {
+        "year": "2022 - 2024",
+        "position": "Président",
+        "company": "QUARK ",
+        "body": "Je suis un Président de club Quark passionné par l'astronomie et la technologie. Mon rôle est d'assurer que notre club offre une expérience unique à nos membres, en organisant des événements liés à l'astronomie, en proposant des conférences sur les dernières avancées technologiques et en créant une atmosphère propice aux échanges et à la découverte. Je suis constamment à l'affût des nouvelles découvertes et des technologies innovantes pour garantir que notre club reste à la pointe de la science et de la technologie. Mon objectif est de créer un lieu où les passionnés d'astronomie et de technologie peuvent se réunir, échanger des idées et vivre des moments enrichissants."
+      },
+      {
+        "year": "2022 - 2024",
+        "position": "Vice-President",
+        "company": "Indusrtie 4.0 ",
+        "body": "Le club 'Industrie 4.0' est un groupe de professionnels et d'experts travaillant dans le domaine de la transformation numérique de l'industrie. Le club se concentre sur les avancées et les défis liés à l'industrie 4.0, notamment l'automatisation, l'internet des objets, l'intelligence artificielle et d'autres technologies émergentes. En tant que vice-président du club, vous êtes probablement impliqué dans la planification d'événements, l'organisation de conférences, la promotion de la collaboration entre les membres et la recherche de solutions innovantes pour les entreprises industrielles. Ce club joue un rôle crucial dans la promotion de l'innovation et de l'adoption des technologies de pointe dans le secteur industriel."
+      }
+    ],
+    "skills": [
+      "React",
+      "MERN",
+      "Python",
+      "Web Development",
+      "tailwind/Bootstrap/Sass"
+    ]
+  }
+}
